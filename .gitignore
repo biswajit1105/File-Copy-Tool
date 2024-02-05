@@ -1,0 +1,4 @@
+*.log
+.vs/
+obj/
+bin/
